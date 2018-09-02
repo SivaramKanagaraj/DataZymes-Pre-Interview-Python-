@@ -17,7 +17,7 @@ sub specialties,
 Education and medical training,
 Certification and licensure,
 
-Step-2: Integrated python and Elasticsearch
+Step-2: Integrated Elasticsearch with python
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
