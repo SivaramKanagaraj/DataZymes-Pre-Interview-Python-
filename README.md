@@ -24,11 +24,11 @@ Step-2: Integrated python and Elasticsearch
 
 # Required library:
 
-Beautifulsoup
-requests
-pandas
-numpy
-elasticsearch
+Beautifulsoup,
+requests,
+pandas,
+numpy,
+elasticsearch.
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
