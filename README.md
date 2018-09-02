@@ -35,9 +35,8 @@ elasticsearch.
 
 # Files in Repository:
 
-Python code of New Jersey:  Datazymes Sivaram K New Jersey.ipynb
+Python code of New Jersey:  Datazymes Sivaram K New Jersey.ipynb,
 Python Code of Texas : Datazymes Sivaram K Texas.ipynb
-
 and HTML file.
 
 
