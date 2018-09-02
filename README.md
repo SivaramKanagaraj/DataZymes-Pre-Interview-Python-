@@ -1,4 +1,4 @@
-## DataZymes Pre Interview Python 
+## DataZymes Pre Interview Python Code
 
 # Problem Statement:
 Scrap the data from the website "https://health.usnews.com/doctors/city-index/new-jersey" using python, and the code can be reused with other states in US.
