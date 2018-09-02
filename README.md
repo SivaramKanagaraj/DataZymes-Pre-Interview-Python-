@@ -5,18 +5,17 @@ Scrap the data from the website "https://health.usnews.com/doctors/city-index/ne
 
 # Description:
 
-Step-1: Used beautifulsoup to scrap the data from the give website and made dataframe for following variables,
-
-Overview
-Full Name
-Years in practice
-Language
-Office location
-Hospital Affiliation
-Specialties 
-sub specialties
-Education and medical training
-Certification and licensure
+Step-1: Used beautifulsoup to scrap the data from the give website and made dataframe for following variables:
+Overview,
+Full Name,
+Years in practice,
+Language,
+Office location,
+Hospital Affiliation,
+Specialties, 
+sub specialties,
+Education and medical training,
+Certification and licensure,
 
 Step-2: Integrated python and Elasticsearch
 
